@@ -1,0 +1,32 @@
+ID: 员工的唯一标识符。
+Age: 员工的年龄。
+BusinessTravel: 员工的出差状态（例如：偶尔出差、频繁出差）。
+Department: 员工所在的部门（如研发、销售等）。
+DistanceFromHome: 员工居住地到工作地点的距离。
+Education: 员工的教育程度（通过一个编号来表示）。
+EducationField: 员工的教育领域（如生命科学、医疗等）。
+EmployeeNumber: 员工的编号。
+EnvironmentSatisfaction: 员工对工作环境的满意度（通过一个编号来表示）。
+Gender: 员工的性别（男或女）。
+JobInvolvement: 员工在工作中的参与度（通过一个编号来表示）。
+JobLevel: 员工的职位等级（通过一个编号来表示）。
+JobRole: 员工的职位角色（如软件工程师、经理等）。
+JobSatisfaction: 员工对工作的满意度（通过一个编号来表示）。
+MaritalStatus: 员工的婚姻状况（已婚、单身等）。
+MonthlyIncome: 员工的月收入。
+NumCompaniesWorked: 员工在职期间工作的公司数量。
+Over18: 员工是否超过 18 岁（通常为 Y/N）。
+OverTime: 员工是否加班（通常为 Y/N）。
+PercentSalaryHike: 员工薪水提升百分比。
+PerformanceRating: 员工的绩效评分。
+RelationshipSatisfaction: 员工对人际关系的满意度（通过一个编号来表示）。
+StandardHours: 标准工作小时数。
+StockOptionLevel: 员工的股票期权级别（通过一个编号来表示）。
+TotalWorkingYears: 员工的总工作年限。
+TrainingTimesLastYear: 员工去年接受培训的次数。
+WorkLifeBalance: 员工的工作与生活平衡情况（通过一个编号来表示）。
+YearsAtCompany: 员工在公司工作的年限。
+YearsInCurrentRole: 员工在当前职位上的年限。
+YearsSinceLastPromotion: 距离上一次晋升的年数。
+YearsWithCurrManager: 员工与当前经理共事的年数。
+Label: 目标标签，通常用于分类（如离职与否）。
