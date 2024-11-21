@@ -47,7 +47,7 @@ To get started with this project, follow these simple steps:
 
 1. **克隆仓库**: 
    ```bash
-   git clone https://github.com/yourusername/employee-turnover-prediction.git
+   git clone https://github.com/CaiNiaoJian/Data-mining-Employee-turnover-prediction.git
    cd employee-turnover-prediction
    ```
 
