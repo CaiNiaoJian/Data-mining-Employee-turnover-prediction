@@ -30,3 +30,17 @@ YearsInCurrentRole: 员工在当前职位上的年限。
 YearsSinceLastPromotion: 距离上一次晋升的年数。
 YearsWithCurrManager: 员工与当前经理共事的年数。
 Label: 目标标签，通常用于分类（如离职与否）。
+
+Similarity (Accuracy): 0.43
+Result dataset attrition rate: 1.71%
+Analysis result dataset attrition rate: 59.14%
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.54      0.50      0.52       117
+           1       0.47      0.50      0.49       103
+
+    accuracy                           0.50       220
+   macro avg       0.50      0.50      0.50       220
+weighted avg       0.51      0.50      0.51       220
